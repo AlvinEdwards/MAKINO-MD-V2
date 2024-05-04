@@ -14,18 +14,18 @@ global.antitags = false;
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = true;                //make true to enable auto recording
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //make true to view statuses 
+global.statusseen = true;                 //make true to view statuses 
 
 
 //
-global.Owner = [""];
-global.OwnerNumber = [""]; 
-global.ownertag = [""]; 
-global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "🐦Makino-md-v2";
+global.Owner = ["256740761661"];
+global.OwnerNumber = ["256740761661"]; 
+global.ownertag = ["256740761661"]; 
+global.OwnerName = "ALVIN EDWARDS";
+global.BotName = "KUNTA-KINTE";
 global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
-global.author = "🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";                               //Do not change.
-global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
+global.author = "🐦ALVINS";                               //Do not change.
+global.BotSourceCode = "https://github.com/AlvinEdwards/MAKINO-MD-V2"; //Do not change.
 global.SupportGroupLink = "v2https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm "; 
 
 
@@ -34,16 +34,16 @@ global.sessionName = "session";                          //Do not change.
 
 
 //
-global.prefa = ["/"];                                    //Default prefix here.
+global.prefa = ["."];                                    //Default prefix here.
 global.openAiAPI = "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";
 
 
 //
-global.location = "Lagos, Nigeria";                   
+global.location = "Kampala, Uganda";                   
 global.reactmoji = "🐦";
 global.themeemoji = "😏";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
-global.websitex = "https://github.com/anonphoenix007";
+global.websitex = "https://github.com/AlvinEdwards";
 global.lolhuman = "KaysaS";
 
 
